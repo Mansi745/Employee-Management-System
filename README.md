@@ -29,3 +29,4 @@ This project helps manage employee records such as adding, updating, searching, 
 ---
 ![image alt](https://github.com/Mansi745/Employee-Management-System/blob/3f09d4e6c521b6474134b702d3773f55117556ed/Screenshot%202026-05-24%20221252.png)
 ![image alt](https://github.com/Mansi745/Employee-Management-System/blob/4520cb6bf4d6535f6ea88216ba09108d1063faa9/Screenshot%202026-05-24%20221338.png)
+![image alt](https://github.com/Mansi745/Employee-Management-System/blob/1b6a2bdcf128c2c0237a840176c15ce6fcddea1b/Screenshot%202026-05-24%20221403.png)
